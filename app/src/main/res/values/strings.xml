@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">MentorHub</string>
+
+    <!-- ===================== GENERAL ===================== -->
+    <string name="mh_nombre_app">MentorHub</string>
+    <string name="mh_subtitulo">Sistema de Gestión de Asesorías Académicas</string>
+    <string name="mh_guardar">Guardar</string>
+    <string name="mh_cancelar">Cancelar</string>
+    <string name="mh_editar">Editar</string>
+    <string name="mh_eliminar">Eliminar</string>
+    <string name="mh_mostrar_contrasena">Mostrar contraseña</string>
+
+    <!-- ===================== MENÚ INFERIOR ===================== -->
+    <string name="mh_menu_inicio">Inicio</string>
+    <string name="mh_menu_asesorias">Asesorías</string>
+    <string name="mh_menu_materias">Materias</string>
+    <string name="mh_menu_perfil">Perfil</string>
+
+    <!-- ===================== LOGIN Y REGISTRO ===================== -->
+    <string name="mh_matricula">Matrícula</string>
+    <string name="mh_contrasena">Contraseña</string>
+    <string name="mh_confirmar_contrasena">Confirmar contraseña</string>
+    <string name="mh_nombre_completo">Nombre completo</string>
+    <string name="mh_correo">Correo electrónico</string>
+    <string name="mh_iniciar_sesion">Iniciar sesión</string>
+    <string name="mh_crear_cuenta">Crear cuenta</string>
+    <string name="mh_ir_a_registro">¿No tienes cuenta? Regístrate</string>
+    <string name="mh_ir_a_login">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="mh_registro_subtitulo">Regístrate para reservar tus asesorías</string>
+    <string name="mh_registro_exitoso">¡Cuenta creada! Ya puedes iniciar sesión</string>
+
+    <!-- ===================== INICIO ===================== -->
+    <string name="mh_hola">Hola, %1$s</string>
+    <string name="mh_proxima_asesoria">Próxima asesoría</string>
+    <string name="mh_mis_asesorias">Mis asesorías</string>
+    <string name="mh_sin_proxima">No tienes asesorías pendientes. Reserva una en la pestaña Asesorías.</string>
+    <string name="mh_sin_inscripciones">Aún no te has inscrito a ninguna asesoría.</string>
+    <string name="mh_marcar_asistencia">Marcar asistencia</string>
+    <string name="mh_cancelar_inscripcion">Cancelar inscripción</string>
+    <string name="mh_confirmar_cancelar">¿Seguro que quieres cancelar tu inscripción a %1$s?</string>
+    <string name="mh_estado">Estado</string>
+
+    <!-- ===================== ASESORÍAS ===================== -->
+    <string name="mh_materia">Materia</string>
+    <string name="mh_docente">Docente</string>
+    <string name="mh_horario">Horario</string>
+    <string name="mh_aula">Aula</string>
+    <string name="mh_dia">Día</string>
+    <string name="mh_hora">Hora</string>
+    <string name="mh_cupos">Cupos disponibles</string>
+    <string name="mh_cupos_valor">%1$d de %2$d</string>
+    <string name="mh_cupo_maximo">Cupo máximo</string>
+    <string name="mh_reservar">Reservar</string>
+    <string name="mh_lleno">Lleno</string>
+    <string name="mh_nueva_asesoria">Nueva asesoría</string>
+    <string name="mh_editar_asesoria">Editar asesoría</string>
+    <string name="mh_eliminar_asesoria">Eliminar asesoría</string>
+    <string name="mh_confirmar_eliminar_asesoria">¿Eliminar la asesoría de %1$s? También se borrarán sus inscripciones.</string>
+    <string name="mh_elige_materia">Elige una materia</string>
+    <string name="mh_sin_asesorias">No hay asesorías registradas. Agrega una con el botón +.</string>
+
+    <!-- ===================== MATERIAS ===================== -->
+    <string name="mh_nombre_materia">Nombre de la materia</string>
+    <string name="mh_clave">Clave</string>
+    <string name="mh_clave_valor">Clave: %1$s</string>
+    <string name="mh_nueva_materia">Nueva materia</string>
+    <string name="mh_editar_materia">Editar materia</string>
+    <string name="mh_eliminar_materia">Eliminar materia</string>
+    <string name="mh_confirmar_eliminar_materia">¿Seguro que quieres eliminar %1$s?</string>
+    <string name="mh_sin_materias">No hay materias registradas.</string>
+
+    <!-- ===================== PERFIL ===================== -->
+    <string name="mh_foto_perfil">Foto de perfil</string>
+    <string name="mh_matricula_valor">Matrícula: %1$s</string>
+    <string name="mh_editar_datos">Editar mis datos</string>
+    <string name="mh_guardar_cambios">Guardar cambios</string>
+    <string name="mh_cerrar_sesion">Cerrar sesión</string>
+    <string name="mh_eliminar_cuenta">Eliminar mi cuenta</string>
+    <string name="mh_confirmar_eliminar_cuenta">Se borrará tu cuenta y todas tus inscripciones. Esta acción no se puede deshacer.</string>
+
+    <!-- ===================== MENSAJES DE ÉXITO ===================== -->
+    <string name="mh_msg_reservada">¡Asesoría reservada!</string>
+    <string name="mh_msg_asistencia">Asistencia registrada</string>
+    <string name="mh_msg_inscripcion_cancelada">Inscripción cancelada</string>
+    <string name="mh_msg_asesoria_creada">Asesoría creada</string>
+    <string name="mh_msg_asesoria_actualizada">Asesoría actualizada</string>
+    <string name="mh_msg_asesoria_eliminada">Asesoría eliminada</string>
+    <string name="mh_msg_materia_creada">Materia creada</string>
+    <string name="mh_msg_materia_actualizada">Materia actualizada</string>
+    <string name="mh_msg_materia_eliminada">Materia eliminada</string>
+    <string name="mh_msg_perfil_actualizado">Datos actualizados</string>
+
+    <!-- ===================== MENSAJES DE ERROR ===================== -->
+    <string name="mh_error_campos_vacios">Llena todos los campos</string>
+    <string name="mh_error_usuario_no_existe">No existe un usuario con esa matrícula. Regístrate primero.</string>
+    <string name="mh_error_contrasena_incorrecta">La contraseña es incorrecta</string>
+    <string name="mh_error_correo_invalido">Escribe un correo válido (ejemplo: alumno@uttt.edu.mx)</string>
+    <string name="mh_error_contrasena_corta">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="mh_error_contrasenas_distintas">Las contraseñas no coinciden</string>
+    <string name="mh_error_matricula_repetida">Esa matrícula ya está registrada</string>
+    <string name="mh_error_ya_inscrito">Ya estás inscrito en esta asesoría</string>
+    <string name="mh_error_cupo_lleno">Esta asesoría ya no tiene cupo</string>
+    <string name="mh_error_cupo_invalido">El cupo debe ser un número mayor a 0</string>
+    <string name="mh_error_elige_materia">Elige una materia</string>
+    <string name="mh_error_materia_repetida">Ya existe una materia con ese nombre</string>
+    <string name="mh_error_materia_con_asesorias">No puedes eliminar una materia que tiene asesorías. Elimina primero sus asesorías.</string>
+    <string name="mh_error_sin_sesion">Tu sesión expiró. Vuelve a iniciar sesión.</string>
+    <string name="mh_error_general">Ocurrió un error. Inténtalo de nuevo.</string>
+</resources>
